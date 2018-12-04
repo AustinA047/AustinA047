@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+           /*
+            Portfolio Project
+            Personal Project
+            
+            Author: Austin Andrews
+            Cite's:
+            Date: December 3rd Through December 17th
+            
+            
+            */
+
+          header nav {
+              line-height: 1.2;
+          }
+          header nav ul {
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+          }
+          header nav ul li {
+              display: block;
+              width: 60px;
+          }

@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+        /*
+            Portfolio Project
+            Personal Project
+            
+            Author: Austin Andrews
+            Cite's:
+            Date: December 3rd Through December 17th
+            
+            
+            */
+
+body {
+    margin: 0 auto;
+    min-width: 641px;
+    background-color: darkgrey;
+    width: 90%;
+}
+           
+           
+html {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: white;
+}
+
+
+
