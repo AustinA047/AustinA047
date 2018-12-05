@@ -15,7 +15,8 @@ body {
     margin: 0 auto;
     min-width: 641px;
     background-color: darkgrey;
-    width: 90%;
+    width: 75%;
+    min-height: 920px;
 }
            
            
