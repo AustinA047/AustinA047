@@ -36,44 +36,40 @@
         padding: 5px;
         width: 15%;
         border: 2px solid black;
+        border-radius: 12px;
         vertical-align: middle;
         text-align: center;
     }
     
     .nav ul li a {
         display: block;
-        vertical-align: middle;
         text-align: center;
         margin-left: auto;
         margin-right: auto;
         margin-top: auto;
         margin-bottom: auto;
         position: relative;
-    }
-    
-    .index h1 {
-        font-size: 2.4em;
-        text-align: center;
-    }
-    
-        p.indexp {
+        padding-top: 14px;
+        padding-bottom: 14px;
         font-size: 1.2em;
-        width: 500px;
-        line-height: 2;
-        text-align: center;
-        margin-top: 25px;
-        border: 3px solid black;
-        margin-left: 465px;
-        
     }
     
-    img.classp {
-        display: block;
-        height: 250px;
-        width: 15%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 25px;
-        padding-top: 20px;
+    .nav a:active {
+        color: black;
+        font-weight: bold;
     }
     
+    .nav a:link {
+        color: black;
+        font-weight: bold;
+    }
+    
+    .nav a:visited {
+        color: black;
+        font-weight: bold;
+    }
+    
+    .nav a:hover {
+        color: white;
+        font-weight: bold;
+    }
