@@ -30,7 +30,7 @@ html {
 
 
 .footer {
-    width: 75%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     float: left;
@@ -42,6 +42,8 @@ html {
     left: 0;
     background-color: black;
     color: #FA8072;
+    widows: 100;
+    orphans: 100;
 }
 
 
