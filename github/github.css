@@ -33,4 +33,42 @@ th , td ,tr {
     border-collapse: collapse;
     text-align: center;
 }
+
+    a#navicon {
+        display: none;
+    }
+
+@media only screen and (max-width: 640px) {
+          
+            a#navicon {
+          display: block;
+            }
+            
+            .nav ul {
+                display: none;
+            }
+            
+            a#navicon:hover+ul, nav ul:hover {
+                display: block;
+            }
+            
+            .nav {
+                max-width: 640px;
+            }
+            
+            .footer {
+                display: none;
+            }
+            
+            
+            img {
+                height: 65px;
+                width: 15%;
+                padding: 45px;
+            }
+            
+            .nav img {
+                padding: 0px 0px;
+            }
+    }
     

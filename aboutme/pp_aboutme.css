@@ -33,8 +33,55 @@
                 line-height: 1.5;
                 border: 2px solid black;
                 border-radius: 12px;
-                width: 500px;
+                width: 520px;
                 margin-left: auto;
                 margin-right: auto;
             }
+            
+            a#navicon {
+                display: none;
+            }
+            
+            
+                 @media only screen and (max-width: 640px) {
+          
+            .me p {
+                float: left;
+            }
+            
+            .me h1 {
+                float: left;
+                text-align: center;
+                margin-right: 45px;
+                padding-right: 45px;
+                
+            }
+        
+            
+            a#navicon {
+          display: block;
+            }
+            
+            .nav ul {
+                display: none;
+            }
+            
+            a#navicon:hover+ul, nav ul:hover {
+                display: block;
+            }
+            
+            .nav {
+                max-width: 640px;
+            }
+            
+            .footer {
+                display: none;
+            }
+            
+            img {
+                height: 65px;
+                width: 15%;
+            }
+            
+                 }
     
