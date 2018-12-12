@@ -16,13 +16,13 @@ h1 {
     font-size: 2.4em;
     line-height: 1;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .body p {
     text-align: center;
     font-size: 1.6em;
-    color: white;
+    color: black;
     padding-top: 45px;
     margin-top: auto;
     margin-left: auto;
