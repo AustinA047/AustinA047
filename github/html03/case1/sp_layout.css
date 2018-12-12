@@ -1,0 +1,63 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Case Problem 1
+   
+   Layout styles for Slate and Pencil Tutoring
+   Author: 
+   Date:   
+   
+   Filename: sp_layout.css
+
+*/
+
+/* Window and Body Styles */
+
+html { 
+    height: 100%;
+}
+
+body {
+    width: 95%;
+    min-width: 640px
+
+
+/* Row Styles */
+
+
+
+
+
+/* Page Header Styles */
+
+
+
+
+
+
+/* Horizontal Navigation List Styles */
+
+
+
+
+/* Topics Styles */
+
+
+
+
+
+
+/* HR Styles */
+
+
+
+
+/* Customer Comment Styles */
+
+
+
+/* Footer Styles */
+
+
