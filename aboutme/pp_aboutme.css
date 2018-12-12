@@ -46,11 +46,12 @@
                  @media only screen and (max-width: 640px) {
           
             .me p {
-                float: left;
+                vertical-align: center;
+                margin-left: auto;
+                margin-right: auto;
             }
             
             .me h1 {
-                float: left;
                 text-align: center;
                 margin-right: 45px;
                 padding-right: 45px;
